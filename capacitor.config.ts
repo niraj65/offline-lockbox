@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.102917667bcc41c18170e286688b9f86',
+  appId: 'com.lovable.securevault',
   appName: 'SecureVault Password Manager',
   webDir: 'dist',
   server: {
